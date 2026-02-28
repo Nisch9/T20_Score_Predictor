@@ -184,7 +184,7 @@ The UI dynamically computes balls left and feeds the model. (UI example shown be
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/Nisch9/T20_Score_Predictor.git)
 cd T20_Score_Predictor
 ```
 
