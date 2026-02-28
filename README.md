@@ -6,6 +6,12 @@ This project demonstrates applied sports analytics and real-time predictive mode
 
 ---
 
+## 🌐 Live App
+
+Try the deployed app here: [https://t20-score-predict.streamlit.app/](https://t20-score-predict.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 The objective is to build a predictive model that estimates the final T20 score using match context such as current score, overs, wickets, and recent performance. The solution follows a complete ML pipeline from raw YAML match data to an interactive web interface. 
@@ -157,7 +163,19 @@ The trained pipeline is deployed via Streamlit.
 Predicted Score: XXX
 ```
 
-The UI dynamically computes balls left and feeds the model. (UI example shown on pages 19–20)
+The UI dynamically computes balls left and feeds the model. (UI example shown below)
+
+---
+
+## 🖼️ App Screenshots
+
+### Initial View
+
+![Initial View](./Initial.png)
+
+### Prediction Result Example
+
+![Prediction Result](./Result.png)
 
 ---
 
